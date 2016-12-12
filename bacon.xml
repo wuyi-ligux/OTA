@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <hammerhead>
+        <bacon>
             <Filename>ResurrectionRemix-N-v5.8.0-20161206-hammerhead.zip</Filename>
             <RomUrl
                 id="rom"
@@ -15,6 +15,6 @@
             	id="gapps"
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
-	</hammerhead>
+	</bacon>
     </Stable>
 </SlimOTA>
