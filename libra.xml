@@ -15,6 +15,6 @@
             	id="open_gapps"
             	title="Open"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
-	</lirba>
+	</libra>
     </Stable>
 </SlimOTA>
