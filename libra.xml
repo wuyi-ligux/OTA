@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <m8>
+        <libra>
             <Filename>ResurrectionRemix-N-v5.8.0-20161208-m8.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">http://bit.ly/2gglZil</RomUrl>
+                description="Download wuyi suda builds">http://bit.ly/2gglZil</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -15,6 +15,6 @@
             	id="open_gapps"
             	title="Open"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
-	</m8>
+	</lirba>
     </Stable>
 </SlimOTA>
