@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <WUYI>
         <bacon>
-            <Filename>SM71.1-2016124-bacon.zip</Filename>
+            <Filename>SM71.1-20161214-bacon.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
