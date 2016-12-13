@@ -2,19 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <WUYI>
         <bacon>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161212-bacon</Filename>
+            <Filename>SM71.1-bacon-201612131037-WUYI.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download WUYI SUDA builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/bacon/Nougat/ResurrectionRemix-N-v5.8.0-20161212</RomUrl>
+                description="Download WUYI SUDA builds">http://v2.huangguofeng.com/pcs_download.php?id=6770&link=%2Fapps%2Fhgf_blog%2Fbacon%2FSM71.1-bacon-201612092331-UNOFFICIAL.zip</RomUrl>
 	          <AlternateLinkUrl
                 id="alternate"
                 title="Alternate Link"
-                description="Alternate Link to Download Builds">https://www.androidfilehost.com/?fid=745425885120693040</AlternateLinkUrl>
+                description="Alternate Link to Download Builds">http://v2.huangguofeng.com/pcs_download.php?id=6770&link=%2Fapps%2Fhgf_blog%2Fbacon%2FSM71.1-bacon-201612092331-UNOFFICIAL.zip</AlternateLinkUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Changelog">https://github.com/SudaMod/android_vendor_sm/blob/sm-3.0/CHANGELOG.mkdn</ChangelogUrl>
            <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
@@ -23,7 +23,7 @@
     </WUYI>
       <WUYI>
         <libra>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161212-angler.zip</Filename>
+            <Filename>SM71.1-libra-201612131037-WUYI.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -35,7 +35,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Changelog">https://github.com/SudaMod/android_vendor_sm/blob/sm-3.0/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
