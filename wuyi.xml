@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <WUYI>
+    <Stable>
         <bacon>
             <Filename>SM71.1-20161214-bacon.zip</Filename>
             <RomUrl
@@ -20,8 +20,8 @@
             	title="Open Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
 	   </bacon>
-    </WUYI>
-      <WUYI>
+    </Stable>
+      <Stable>
         <libra>
             <Filename>SM71.1-libra-201612131037-WUYI.zip</Filename>
             <RomUrl
@@ -41,5 +41,5 @@
                 title="OpenGApps"
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
 	</libra>
-    </WUYI>
+    </Stable>
 </SlimOTA>
