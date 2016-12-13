@@ -6,7 +6,7 @@
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
 # * Chances are you only need to change the ota_url in this file 
 #
-ota_url=https://raw.githubusercontent.com/wuyi-ligux/OTA/master/bacon.xml
+ota_url=https://raw.githubusercontent.com/wuyi-ligux/OTA/master/wuyi.xml
 release_type=WUYI
 device_name=ro.sm.device
  
